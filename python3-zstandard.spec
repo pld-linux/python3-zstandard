@@ -4,12 +4,12 @@
 %define		module	zstandard
 Summary:	Zstandard bindings for Python
 Name:		python3-%{module}
-Version:	0.21.0
+Version:	0.22.0
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{module}/%{module}-%{version}.tar.gz
-# Source0-md5:	7baafeb332651d70881ce692edf912b3
+# Source0-md5:	224e2e0d5d1f0e8be28aa31c802d1543
 URL:		https://github.com/indygreg/python-zstandard
 BuildRequires:	python3-devel >= 1:3.2
 BuildRequires:	python3-setuptools
