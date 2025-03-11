@@ -5,7 +5,7 @@
 Summary:	Zstandard bindings for Python
 Name:		python3-%{module}
 Version:	0.22.0
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{module}/%{module}-%{version}.tar.gz
